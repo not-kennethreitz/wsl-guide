@@ -6,7 +6,7 @@
 The Windows Subsystem for Linux Guide!
 ======================================
 
-Greetings, Earthling! Welcome to The Hitchhiker’s Guide Windows Subsystem for Linux.
+Greetings, Earthling! Welcome to The Hitchhiker’s Guide to the Windows Subsystem for Linux (WSL).
 
 **This is a living, breathing guide**. If you’d like to contribute, `fork us on GitHub <https://github.com/kennethreitz/wsl-guide>`_!
 
