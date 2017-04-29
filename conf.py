@@ -175,3 +175,9 @@ epub_copyright = copyright
 epub_exclude_files = ['search.html']
 
 
+html_theme_options = {
+    'github_user': 'kennethreitz',
+    'github_repo': 'wsl-guide',
+    'github_banner': True,
+    'github_button': True
+}
