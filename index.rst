@@ -19,6 +19,7 @@ This handcrafted guide exists to provide both novice and expert Windows and Linu
    background
    installation
    update
+   gotchas
    gui
    packages
 
