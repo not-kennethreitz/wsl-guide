@@ -1,8 +1,10 @@
-Background on WSL
-=================
+Background on WSL (Windows Subsystem for Linux)
+===============================================
 
-What is WSL (Windows Subsystem for Linux)?
-------------------------------------------
+What is WSL?
+------------
+
+WSL is a full Ubuntu operating system that you can install on your Windows 10 machine.
 
 It's Beta Software
 ------------------
