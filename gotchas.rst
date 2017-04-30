@@ -11,7 +11,7 @@ You may notice that by default, VIM's arrow keys don't work on your computer. To
     set term=builtin_ansi
 
 Sudo 'Unable to Resolve Host' Warning
-=====================================
+-------------------------------------
 
 You may notice that every time you run ``sudo something``, your system complains that it cannot resolve it's own hostname, but then continues on anyway. To fix this annoyance, you need to add your system's hostname to ``/etc/hosts``::
 
