@@ -13,7 +13,9 @@ Go to **Settings -> Update and Security -> For developers**, and click "Develope
 Step 2: Install WSL
 -------------------
 
-Next, you need to install WSL. Go to the Start Menu and search for "turn windows features on or off". 
+Next, you need to install WSL. 
+
+Go to the Start Menu and search for "turn windows features on or off". 
 Select that, then check the "Windows Subsystem for Linux (Beta)" checkbox. 
 
 Hit OK. Restart your computer. 
