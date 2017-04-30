@@ -23,7 +23,7 @@ Step 3: Create a Unix Account
 
 Next, we need to activate WSL from the command-line. Open up a Command Prompt and run the following command::
 
-    bash
+    > bash
 
 This will setup your Linux environment on Windows! If you see a blank screen at any point during this process, hit enter, and you'll be prompted to create a new username for your Linux account.
 
