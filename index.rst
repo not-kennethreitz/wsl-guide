@@ -10,6 +10,8 @@ Greetings, Earthling! Welcome to The Hitchhiker’s Guide to the Windows Subsyst
 
 **This is a living, breathing guide**. If you’d like to contribute, `fork us on GitHub <https://github.com/kennethreitz/wsl-guide>`_!
 
+This guide is also available in `Chinese <http://wsl-guide-cn.readthedocs.io/>`_.
+
 This handcrafted guide exists to provide both novice and expert Windows and Linux developers a best practice handbook to the installation, configuration, and usage of WSL (Bash on Ubuntu on Windows) on a daily basis.
 
 .. toctree::
